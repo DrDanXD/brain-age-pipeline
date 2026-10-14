@@ -1,0 +1,2 @@
+brain_age_source,n_subjects,features,alpha,loocv_mae_years,loocv_r2,loocv_r_pred_vs_age,bias_slope,bias_intercept,mean_delta,sd_delta,pct_delta_positive,intercept_years,n_delta_positive
+ridge_loocv,118,"gm_icv, wm_icv, wmh_icv, hipp_icv",1.0,3.9235110298113898,0.585805100205654,0.7655751983018227,-0.4007189028182133,18.149861256646776,3.703252394003912e-15,3.9082064033039945,48.30508474576271,45.25423728813558,57

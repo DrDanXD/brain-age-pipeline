@@ -1,0 +1,23 @@
+# Patient data never leaves this machine
+data/raw/
+data/dicom/
+data/nifti/
+data/private/
+data/cohort_deidentified.csv
+data/cat12_volumes.csv
+*.xlsx
+*.xls
+*.dcm
+*.nii
+*.nii.gz
+
+# Results from real data
+outputs_real/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store

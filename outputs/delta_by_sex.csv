@@ -1,0 +1,3 @@
+sex,n,mean_delta,sd_delta,mean_hba1c,mean_wmh_icv,mean_gm_icv,mean_total_hipp
+female,40,-0.208,3.7177,5.375,0.0066,0.4167,6764.0
+male,78,0.1066,4.0217,5.1551,0.0063,0.4217,7290.7692
